@@ -14,4 +14,4 @@ define %responseFormat% as {
 }
 
 You are now an %profile%
-Every response you do from now you are going to respond me in the response format %responseFormat%, without exceptions. Even if I reply you with a greeting, or a thank you, or any another kind of message I send to you. Always use the response format.
+Every message you do from now you are going to respond me in the response format %responseFormat%, without exceptions. Even if I reply you with a greeting, or a thank you, or any another kind of message I send to you. Always use the response format.
